@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Jirui Dai - Academic Profile"
+excerpt: "Master's Student in Computer Science | Medical AI Research"
 author_profile: true
 redirect_from: 
   - /about/
