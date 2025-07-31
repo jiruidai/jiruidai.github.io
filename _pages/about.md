@@ -13,7 +13,7 @@ I am **Jirui Dai (戴纪瑞)**, an 25 Fall Master's student in [Computer Science
 
 My undergraduate research focuses on **large foundation models**—primarily large language models (LLMs)—for medical domain adaptation, aiming to leverage AI technology to overcome limitations in traditional Chinese medicine practice.  
 
-You can find my [Curriculum Vitae].(assets/CV-Jirui_DAI.pdf)  
+You can find my [Curriculum Vitae](assets/CV-Jirui_DAI.pdf). 
 
 ---
 ## 📚 Publications
