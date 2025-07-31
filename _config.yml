@@ -20,10 +20,11 @@ repository               : "jhu1201JHU/JiruiDai.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+ <img src="{{site.baseurl}}/images/photo_tentative.png.png"/>
 author:
   # Biographic information
   #avatar           : /images
-  <img src="{{site.baseurl}}/images/photo_tentative.png.png"/>
+ 
   name             : "Jirui Dai"
   pronouns         : # example: "she/her"  
   bio              : "Graduate student in computer science at Johns Hopkins University"
