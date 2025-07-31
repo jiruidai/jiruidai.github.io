@@ -22,7 +22,8 @@ repository               : "jhu1201JHU/JiruiDai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : /images
+  #avatar           : /images
+  <img src="{{site.baseurl}}/images/photo_tentative.png.png"/>
   name             : "Jirui Dai"
   pronouns         : # example: "she/her"  
   bio              : "Graduate student in computer science at Johns Hopkins University"
