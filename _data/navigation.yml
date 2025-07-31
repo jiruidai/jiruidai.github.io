@@ -9,4 +9,4 @@
 
 main:
   - title: "Home"
-    url: /_pages/
+    #url: /_pages/
