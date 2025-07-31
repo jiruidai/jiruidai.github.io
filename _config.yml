@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Master's Student in Computer Science | Medical AI Research"
+title                    : "Jirui Dai's Personal Website"
 title_separator          : "-"
 name                     : &name "Jirui Dai"
 description              : #&description "personal description"
