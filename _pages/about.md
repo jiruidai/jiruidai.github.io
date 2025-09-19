@@ -17,7 +17,7 @@ My research interests broadly lie in **AI for healthcare** and **Reinforcement L
 * Leveraging **large language models (LLMs)** and **multimodal AI** to tackle challenges in human health and medical practice.  
 * Exploring **reinforcement learning (RL)** as a pathway to new LLM paradigms — investigating whether RL can push LLMs beyond alignment to achieve **self-consistent innovation**.  
 
-**I am also actively seeking collaboration with professors and researchers who share interests in medical AI, multimodal modeling, or RL for foundation models.** 
+**I am also actively seeking collaboration with professors and researchers who share interests in medical AI or RL for foundation models.** 
 
 You can find my CV [here](assets/CV-Jirui_DAI.pdf). CV information before 08/25/2025. 
 
