@@ -60,11 +60,6 @@ A large-scale, multi-year effort to connect **TCM pharmacology** with **clinical
 <summary>⚙️ Purely technical project exploring RL for LLM innovation.</summary>
   
 Developing a **data-agnostic methodology** to test whether RL can enable LLMs to learn *new skills* by composing atomic operations, moving beyond human preference alignment.  
-
-**Key references:**  
-
-- [From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones](https://husky-morocco-f72.notion.site/From-f-x-and-g-x-to-f-g-x-LLMs-Learn-New-Skills-in-RL-by-Composing-Old-Ones-2499aba4486f802c8108e76a12af3020)  
-- [RL’s Razor: On the Proper Use of RL in Post-Training](https://arxiv.org/abs/2509.04259v1)
 </details>
 
 
