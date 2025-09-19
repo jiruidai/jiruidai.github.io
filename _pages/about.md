@@ -10,7 +10,8 @@ redirect_from:
 
 ## 👨‍🔬 About Me
 
-I am **Jirui Dai (戴纪瑞)**, a Master’s student (Fall 2025 cohort) in [Computer Science at Johns Hopkins University](https://www.cs.jhu.edu/).  
+I am **Jirui Dai (戴纪瑞)**, a Master’s student in [Computer Science at Johns Hopkins University](https://www.cs.jhu.edu/).  
+
 Currently, I am a Research Assistant in the [Cao Peng Group](https://yxy.njucm.edu.cn/2022/1026/c5740a108197/page.htm) at Nanjing University of Chinese Medicine, advised by Postdoctoral Researcher **Zhi Liu**.  
 My research interests broadly lie in **AI for healthcare**, where I focus on:
 * Leveraging **large language models (LLMs)** and **multimodal AI** to tackle challenges in human health and medical practice.  
