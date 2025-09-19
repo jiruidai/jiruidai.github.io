@@ -52,14 +52,14 @@ Providing the conceptual framework and guidance for a graduation project based o
 ### 5. Long-Term TCM Integration Project  
 <details>
 <summary>⏳ 2–3 year project: bridging pharmacology and clinical practice.</summary>
-A large-scale, multi-year effort to connect **TCM pharmacology** with **clinical applications** using LLMs. Currently in the data collection phase.
+A large-scale, multi-year effort to connect TCM pharmacology with clinical applications using LLMs. Currently in the data collection phase.
 </details>
 
 ### 6. RL & Innovation in LLMs  
 <details>
 <summary>⚙️ Purely technical project exploring RL for LLM innovation.</summary>
   
-Developing a **data-agnostic methodology** to test whether RL can enable LLMs to learn *new skills* by composing atomic operations, moving beyond human preference alignment.  
+Developing a data-agnostic methodology to test whether RL can enable LLMs to learn *new skills* by composing atomic operations, moving beyond human preference alignment.  
 </details>
 
 
