@@ -15,7 +15,7 @@ Education
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
-Work experience
+Internship experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -32,7 +32,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Ongoing projects(Only a portion is shown)
 ======
 * Skill 1
 * Skill 2
