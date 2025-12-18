@@ -20,14 +20,24 @@ Internship Experience
 ### <img src="{{ '/images/bytedance.png' | relative_url }}" alt="ByteDance" style="height:20px; vertical-align:middle; margin-right:8px;"> ByteDance (TikTok) — NLP Algorithm Intern
 *Sept. 2024 – Dec. 2024*
 
-- Internship Certificate: [View / Download]({{ '/assets/internship_bytedance.pdf' | relative_url }})
+<a class="btn btn--primary btn--small" href="{{ '/assets/internship_bytedance.pdf' | relative_url }}" target="_blank" rel="noopener">
+  Internship Certificate
+</a>
 
-<iframe
-  src="{{ '/assets/internship_bytedance.pdf' | relative_url }}#page=1&zoom=page-width"
-  width="100%"
-  height="780"
-  style="border:1px solid rgba(127,127,127,0.25); border-radius:12px;">
-</iframe>
+<details style="margin-top:10px;">
+<summary>Preview (opens inline)</summary>
+<div style="margin-top:10px; border:1px solid rgba(127,127,127,0.25); border-radius:12px; overflow:hidden;">
+  <object data="{{ '/assets/internship_bytedance.pdf' | relative_url }}#page=1&zoom=page-width"
+          type="application/pdf"
+          width="100%"
+          height="560">
+    <p style="padding:12px;">
+      Your browser can’t preview PDFs inline.
+      <a href="{{ '/assets/internship_bytedance.pdf' | relative_url }}" target="_blank" rel="noopener">Open the PDF</a>.
+    </p>
+  </object>
+</div>
+</details>
 
 
 Ongoing Projects (Only a portion is shown)
