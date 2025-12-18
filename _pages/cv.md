@@ -14,11 +14,9 @@ Education
 - **M.S.E. in Computer Science**, Johns Hopkins University — Baltimore, MD *(2025–Present)*
 - **B.S. in Software Engineering**, Nanchang Hangkong University — Nanchang, China *(2020–2024)*
 
-
 Internship Experience
 ======
-### <img src="{{ '/images/bytedance.png' | relative_url }}" alt="ByteDance" style="height:100px; width:auto; vertical-align:middle; margin-right:10px;"> ByteDance(Tiktok) - NLP Algorithm Intern  *Sept. 2024 – Dec. 2024*
-
+### <img src="{{ '/images/bytedance.png' | relative_url }}" alt="ByteDance" style="height:100px; width:auto; vertical-align:middle; margin-right:0px;"> ByteDance(Tiktok) - NLP Algorithm Intern  *Sept. 2024 – Dec. 2024*
 
 Ongoing Projects (Only a portion is shown)
 ======
