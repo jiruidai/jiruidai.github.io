@@ -20,8 +20,8 @@ My interests sit at the intersection of **Medical AI** and **Reinforcement Learn
 - **LLMs & multimodal models for clinical practice:** turning expert knowledge and real-world medical signals into reliable, usable systems.
 - **RL for foundation models:** exploring whether reinforcement learning can expand model capabilities beyond “polite alignment” toward **broader, more reliable solution spaces**.
 
-**I’m actively looking to collaborate with researchers working on medical AI, multimodal learning, or RL for foundation models.**
-You can find my CV [here](/assets/CV-Jirui_Dai.pdf).CV information before 12/15/2025.
+**I’m actively looking to collaborate** with researchers working on medical AI, multimodal learning, or RL for foundation models.  
+You can find my CV [here](/assets/CV-Jirui_Dai.pdf). CV information before 12/15/2025.
 
 ## Research Taste
 I’ve become more optimistic about the possibility of **AGI** as I learn more about modern AI systems — and at the same time, more cautious about the **hype cycles** around them. Progress is real, but the trajectory is hard to forecast, and many “confident narratives” dissolve under stress testing.
