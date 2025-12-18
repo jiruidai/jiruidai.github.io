@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## 👨‍🔬 About Me
-
 I am **Jirui Dai (戴纪瑞)**, a Master’s student in [Computer Science at Johns Hopkins University](https://www.cs.jhu.edu/).  
 
 Currently, I am a Research Assistant in the [Cao Peng Group](https://yxy.njucm.edu.cn/2022/1026/c5740a108197/page.htm) at Nanjing University of Chinese Medicine, advised by Postdoctoral Researcher **Zhi Liu**.  
