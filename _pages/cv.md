@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-- **M.S.E. in Computer Science**, Johns Hopkins University — Baltimore, MD *(2025–Present)*
+- **M.S.E. in Computer Science**, Johns Hopkins University — Baltimore, US *(2025–Present)*
 - **B.S. in Software Engineering**, Nanchang Hangkong University — Nanchang, China *(2020–2024)*
 
 Internship Experience
