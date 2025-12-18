@@ -59,8 +59,8 @@ main:
   - title: "About me"
     url: /about/
         
-  - title: "Experience"
-    url: /cv/
-    
   - title: "Publications"
     url: /publications/
+    
+  - title: "Experience"
+    url: /cv/
