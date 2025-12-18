@@ -48,7 +48,7 @@ Collecting gynecology-specific data. The project is designed as a lightweight ad
 Providing the conceptual framework and guidance for a graduation project based on encoded physician work experience. Data is ready, project not yet started.
 </details>
 
-### Long-Term TCM Integration Project
+### 5. Long-Term TCM Integration Project
 <details>
 <summary>⏳ 2–3 year project: bridging pharmacology and clinical practice.</summary>
 A large-scale, multi-year effort to connect TCM pharmacology with clinical applications using LLMs. Currently in the data collection phase.
