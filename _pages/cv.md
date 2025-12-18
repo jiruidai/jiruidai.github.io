@@ -17,7 +17,7 @@ Education
 
 Internship Experience
 ======
-### <img src="{{ '/images/bytedance.png' | relative_url }}" alt="ByteDance" style="height:50px; width:auto; vertical-align:middle; margin-right:10px;"> ByteDance - NLP Algorithm Intern 
+### <img src="{{ '/images/bytedance.png' | relative_url }}" alt="ByteDance" style="height:100px; width:auto; vertical-align:middle; margin-right:5px;"> ByteDance - NLP Algorithm Intern 
 *Sept. 2024 – Dec. 2024*
 
 
