@@ -17,27 +17,8 @@ Education
 
 Internship Experience
 ======
-### <img src="{{ '/images/bytedance.png' | relative_url }}" alt="ByteDance" style="height:20px; vertical-align:middle; margin-right:8px;"> ByteDance (TikTok) — NLP Algorithm Intern
-*Sept. 2024 – Dec. 2024*
-
-<a class="btn btn--primary btn--small" href="{{ '/assets/internship_bytedance.pdf' | relative_url }}" target="_blank" rel="noopener">
-  Internship Certificate
-</a>
-
-<details style="margin-top:10px;">
-<summary>Preview (opens inline)</summary>
-<div style="margin-top:10px; border:1px solid rgba(127,127,127,0.25); border-radius:12px; overflow:hidden;">
-  <object data="{{ '/assets/internship_bytedance.pdf' | relative_url }}#page=1&zoom=page-width"
-          type="application/pdf"
-          width="100%"
-          height="560">
-    <p style="padding:12px;">
-      Your browser can’t preview PDFs inline.
-      <a href="{{ '/assets/internship_bytedance.pdf' | relative_url }}" target="_blank" rel="noopener">Open the PDF</a>.
-    </p>
-  </object>
-</div>
-</details>
+### <img src="{{ '/images/bytedance.png' | relative_url }}" alt="ByteDance"
+style="height:34px; width:auto; vertical-align:middle; margin-right:10px;"> ByteDance (TikTok) — NLP Algorithm Intern
 
 
 Ongoing Projects (Only a portion is shown)
