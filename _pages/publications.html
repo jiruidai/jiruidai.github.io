@@ -5,32 +5,175 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<style>
+  /* Publication card layout (image left, content right) */
+  .pub-list { margin-top: 1.2em; }
+  .pub-section { margin: 1.8em 0 0.8em; }
+  .pub-section h2 { margin-bottom: 0.4em; }
+  .pub-card {
+    display: flex;
+    gap: 18px;
+    padding: 14px 14px;
+    border: 1px solid rgba(127,127,127,0.22);
+    border-radius: 12px;
+    margin: 14px 0;
+    background: rgba(127,127,127,0.04);
+  }
+  .pub-card:hover {
+    border-color: rgba(127,127,127,0.35);
+    background: rgba(127,127,127,0.06);
+  }
+  .pub-thumb {
+    flex: 0 0 280px;
+    max-width: 280px;
+  }
+  .pub-thumb img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+  }
+  .pub-body { flex: 1 1 auto; min-width: 0; }
+  .pub-title {
+    font-size: 1.08em;
+    font-weight: 700;
+    line-height: 1.25;
+    margin: 0 0 6px 0;
+  }
+  .pub-authors {
+    margin: 0 0 6px 0;
+    color: rgba(255,255,255,0.78);
+  }
+  /* fallback for light mode */
+  html:not(.dark) .pub-authors { color: rgba(0,0,0,0.72); }
 
-{% include base_path %}
+  .pub-meta { margin: 0 0 8px 0; }
+  .pub-meta .badge {
+    display: inline-block;
+    font-size: 0.85em;
+    padding: 2px 10px;
+    border-radius: 999px;
+    border: 1px solid rgba(127,127,127,0.35);
+    margin-right: 8px;
+    vertical-align: middle;
+  }
+  .pub-links a { margin-right: 10px; }
+  .pub-notes { margin-top: 8px; margin-bottom: 0; }
+  .pub-notes li { margin: 4px 0; }
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  @media (max-width: 900px) {
+    .pub-card { flex-direction: column; }
+    .pub-thumb { flex: 0 0 auto; max-width: 100%; }
+  }
+</style>
 
+<div class="pub-list">
 
+  <!-- ===================== Journal ===================== -->
+  <div class="pub-section">
+    <h2>Journal</h2>
+    <hr/>
 
+    <!-- Journal #1 -->
+    <div class="pub-card">
+      <div class="pub-thumb">
+        <!-- TODO: put your figure here -->
+        <a href="https://njucm-bjucm-tcm-ai.github.io/Med-Shicheng_project_website/" target="_blank" rel="noopener">
+          <img src="{{ '/images/med-shicheng.png' | relative_url }}"
+               alt="From Physician Expertise to Clinical Agents - teaser image">
+        </a>
+      </div>
+
+      <div class="pub-body">
+        <div class="pub-title">
+          <a href="https://njucm-bjucm-tcm-ai.github.io/Med-Shicheng_project_website/" target="_blank" rel="noopener">
+            From Physician Expertise to Clinical Agents: Preserving, Standardizing, and Scaling Physicians’ Medical Expertise with Lightweight LLM
+          </a>
+        </div>
+
+        <div class="pub-authors">
+          Changyong Luo*; Jirui Dai*; Zhendong Wang*; et al.
+        </div>
+        <div class="pub-authors">
+          Chanyong Luo<sup>*</sup>, <b>Jirui Dai</b><sup>*</sup>, Zhendong Wang<sup>*</sup>, Jing Wang, Kuichen, Jiaxi Yang, Bingjie Lu, Jiaxin Hao, Bing Li, Ruiyang He, Yiyu Qiao, Chenkai Zhang, Kaiyu Wang, Zhi Liu<sup>✉</sup>, Zeyu Zheng<sup>✉</sup>, Yan Li<sup>✉</sup>, Xiaohong Gu<sup>✉</sup>
+        </div>
+
+        <div class="pub-meta">
+          <span class="badge">Manuscript</span>
+          <span>Submitted to <b>Nature Medicine</b>. Patent pending. (<i>* equal contribution, co-first authors</i>)</span>
+        </div>
+
+        <div class="pub-links">
+          <a href="https://njucm-bjucm-tcm-ai.github.io/Med-Shicheng_project_website/" target="_blank" rel="noopener">
+            Project Website
+          </a>
+          <!-- 你之后如果有 preprint/pdf/code/doi，就按下面格式加即可 -->
+          <!-- <a href="PDF_LINK" target="_blank" rel="noopener">Paper</a> -->
+          <!-- <a href="CODE_LINK" target="_blank" rel="noopener">Code</a> -->
+          <!-- <a href="DOI_LINK" target="_blank" rel="noopener">DOI</a> -->
+        </div>
+
+        <ul class="pub-notes">
+          <li>Lightweight LLM framework for preserving, standardizing, and scaling physicians’ medical expertise into clinical agents.</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Journal #2 (in preparation placeholder) -->
+    <div class="pub-card">
+      <div class="pub-thumb">
+        <img src="{{ '/images/placeholder.png' | relative_url }}"
+             alt="Manuscripts in preparation - placeholder image">
+      </div>
+      <div class="pub-body">
+        <div class="pub-title">Manuscripts in preparation</div>
+        <div class="pub-authors">—</div>
+        <div class="pub-meta">
+          <span class="badge">In Preparation</span>
+          <span>Additional journal manuscripts currently in preparation.</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ===================== Conference ===================== -->
+  <div class="pub-section">
+    <h2>Conference</h2>
+    <hr/>
+
+    <!-- Conference #1 -->
+    <div class="pub-card">
+      <div class="pub-thumb">
+        <!-- TODO: put your figure here -->
+        <img src="{{ '/images/federated-noniid.png' | relative_url }}"
+             alt="Comparative Analysis of Federated Learning Algorithms under Non-IID Data - teaser image">
+      </div>
+
+      <div class="pub-body">
+        <div class="pub-title">
+          Comparative Analysis of Federated Learning Algorithms under Non-IID Data
+        </div>
+
+        <div class="pub-authors">
+          Jirui Dai. (2024).
+        </div>
+
+        <div class="pub-meta">
+          <span class="badge">Proceedings</span>
+          <span>Proceedings of the 2024 Conference on Applied and Computational Engineering</span>
+        </div>
+
+        <div class="pub-links">
+          <a href="https://doi.org/10.54254/2755-2721/86/20241581" target="_blank" rel="noopener">DOI</a>
+          <a href="https://www.researchgate.net/publication/382753798_Comparative_analysis_of_federated_learning_algorithms_under_non-IID_data" target="_blank" rel="noopener">ResearchGate</a>
+        </div>
+
+        <ul class="pub-notes">
+          <li>Comparative analysis of federated learning algorithms under non-IID data settings.</li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</div>
