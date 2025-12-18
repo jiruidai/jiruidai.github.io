@@ -18,11 +18,7 @@ My research interests broadly lie in **AI for healthcare** and **Reinforcement L
 
 You can find my CV [here](assets/CV-Jirui_Dai.pdf). CV information before 12/15/2025. 
 
----
-
 ## 🔍 Research Taste
-* AI for Healthcare: Large Medical LLMs & Multimodal Adaptation  
-* Reinforcement Learning for LLM Self-Consistency & Innovation 
 
----
+
 
