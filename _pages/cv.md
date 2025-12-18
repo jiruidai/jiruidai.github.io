@@ -17,8 +17,8 @@ Education
 
 Internship Experience
 ======
-### <img src="{{ '/images/bytedance.png' | relative_url }}" alt="ByteDance" style="height:34px; width:auto; vertical-align:middle; margin-right:10px;"> ByteDance (TikTok) 
-NLP Algorithm Intern *Sept. 2024 – Dec. 2024*
+### <img src="{{ '/images/bytedance.png' | relative_url }}" alt="ByteDance" style="height:50px; width:auto; vertical-align:middle; margin-right:10px;"> ByteDance  NLP Algorithm Intern 
+*Sept. 2024 – Dec. 2024*
 
 
 Ongoing Projects (Only a portion is shown)
