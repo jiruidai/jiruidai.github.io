@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "Education"
+title: "Personal Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+Education
+======
 - **M.S.E. in Computer Science**, Johns Hopkins University — Baltimore, US *(2025–Present)*
 - **B.S. in Software Engineering**, Nanchang Hangkong University — Nanchang, China *(2020–2024)*
 
