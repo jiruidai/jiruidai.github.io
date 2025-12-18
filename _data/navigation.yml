@@ -56,11 +56,11 @@ main:
   - #title: "Teaching"
   #  url: /teaching/    
     
+  - title: "About me"
+    url: /about/
+        
   - title: "Experience"
     url: /cv/
-        
+    
   - title: "Publications"
     url: /publications/
-    
-  - title: "Home"
-    url: https://jiruidai.github.io/
