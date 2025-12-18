@@ -19,7 +19,7 @@ Currently, I work as an **Assistant Researcher** (monthly stipend) in the [Cao P
 
 My interests sit at the intersection of **Medical AI** and **Reinforcement Learning**, with a focus on:
 - **LLMs & multimodal models for clinical practice:** turning expert knowledge and real-world medical signals into reliable, usable systems.
-- **RL for foundation models:** exploring whether reinforcement learning can expand model capabilities beyond “polite alignment” toward **broader, more reliable solution spaces**.
+- **RL for foundation models:** exploring whether reinforcement learning can expand model capabilities beyond “alignment” toward **broader, more reliable solution spaces**.
 
 **I’m actively looking to collaborate** with researchers working on medical AI, multimodal learning, or RL for foundation models.  
 You can find my CV [here](/assets/CV-Jirui_Dai.pdf). CV information before 12/15/2025.
