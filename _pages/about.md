@@ -19,7 +19,7 @@ My research interests broadly lie in **AI for healthcare** and **Reinforcement L
 
 **I am also actively seeking collaboration with professors and researchers who share interests in medical AI or RL for foundation models.** 
 
-You can find my CV [here](assets/CV-Jirui_DAI.pdf). CV information before 08/25/2025. 
+You can find my CV [here](assets/CV-Jirui_Dai.pdf). CV information before 12/15/2025. 
 
 ---
 
