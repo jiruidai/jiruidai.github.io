@@ -6,8 +6,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 - **M.S.E. in Computer Science**, Johns Hopkins University — Baltimore, MD *(2025–Present)*
