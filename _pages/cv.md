@@ -18,7 +18,7 @@ Internship Experience
 ======
   <div style="display:flex; justify-content:space-between; align-items:center; gap:14px; flex-wrap:wrap;">
   <div style="display:flex; align-items:center; gap:12px;">
-    <img src="{{ '/images/bytedance.png' | relative_url }}" alt="ByteDance" style="height:34px; width:auto; display:inline-block;">
+    <img src="{{ '/images/bytedance.png' | relative_url }}" alt="ByteDance" style="height:100px; width:auto; display:inline-block;">
     <div style="font-weight:800; font-size:1.05em; line-height:1.1;">ByteDance (TikTok)</div>
   </div>
      <div style="margin-top:8px; font-weight:650;">
