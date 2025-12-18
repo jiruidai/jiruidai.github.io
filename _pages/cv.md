@@ -19,16 +19,17 @@ Internship Experience
 
 <div style="border:1px solid rgba(127,127,127,0.25); border-radius:14px; padding:14px 16px; margin:14px 0; background:rgba(127,127,127,0.04);">
   <div style="display:flex; justify-content:space-between; align-items:center; gap:14px; flex-wrap:wrap;">
-    <div style="display:flex; align-items:center; gap:12px;">
-      <img src="{{ '/images/bytedance.png' | relative_url }}" alt="ByteDance" style="height:34px; width:auto; display:block;">
-      <div style="font-weight:800; font-size:1.05em; line-height:1.1;">ByteDance (TikTok)</div>
-    </div>
+  <div style="display:flex; align-items:center; gap:12px;">
+    <img src="{{ '/images/bytedance.png' | relative_url }}" alt="ByteDance" style="height:34px; width:auto; display:inline-block;">
+    <div style="font-weight:800; font-size:1.05em; line-height:1.1;">ByteDance (TikTok)</div>
+  </div>
+     <div style="margin-top:8px; font-weight:650;">
+       NLP Algorithm Intern
+     </div>
     <div style="opacity:0.85; font-style:italic; white-space:nowrap;">Sept. 2024 – Dec. 2024</div>
   </div>
 
-  <div style="margin-top:8px; font-weight:650;">
-    NLP Algorithm Intern
-  </div>
+
 </div>
 
 Ongoing Projects (Only a portion is shown)
