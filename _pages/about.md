@@ -19,7 +19,7 @@ Currently, I work as an **Assistant Researcher** (monthly stipend) in the [Cao P
 
 My interests sit at the intersection of **Medical AI** and **Reinforcement Learning**, with a focus on building **clinically grounded** and **capability-expanding** AI systems.
 
-- **LLMs / MLLMs / Agents for clinical practice:** turning expert knowledge and real-world medical signals into reliable, usable systems—emphasizing structured reasoning, robustness, and evaluation that reflects clinical reality.
+- **LLM / MLLM / Agent for clinical practice:** turning expert knowledge and real-world medical signals into reliable, usable systems—emphasizing structured reasoning, robustness, and evaluation that reflects clinical reality.
 - **RL for foundation models:** exploring how reinforcement learning can expand model capabilities beyond “alignment,” toward broader and more reliable solution spaces.
 
 **I’m actively looking to collaborate** with researchers working on medical AI, multimodal learning, or RL for foundation models.  
