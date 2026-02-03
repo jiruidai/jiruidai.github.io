@@ -17,12 +17,13 @@ I am **Jirui Dai (戴纪瑞)**, a Master’s student in [Computer Science at Joh
 
 Currently, I work as an **Assistant Researcher** (monthly stipend) in the [Cao Peng Group](https://yxy.njucm.edu.cn/2022/1026/c5740a108197/page.htm) at Nanjing University of Chinese Medicine, advised by Postdoctoral Researcher **Zhi Liu**. I am also involved in collaborative research with multiple medical institutions (including Peking Union Medical College Hospital, Dongfang Hospital of Beijing University of Chinese Medicine, and Gulou Hospital of Traditional Chinese Medicine of Beijing et al).
 
-My interests sit at the intersection of **Medical AI** and **Reinforcement Learning**, with a focus on:
-- **LLM、MLLM & Agent for clinical practice:** turning expert knowledge and real-world medical signals into reliable, usable systems.
-- **RL for foundation models:** exploring whether reinforcement learning can expand model capabilities beyond “alignment” toward **broader, more reliable solution spaces**.
+My interests sit at the intersection of **Medical AI** and **Reinforcement Learning**, with a focus on building **clinically grounded** and **capability-expanding** AI systems.
+
+- **LLMs / MLLMs / Agents for clinical practice:** turning expert knowledge and real-world medical signals into reliable, usable systems—emphasizing structured reasoning, robustness, and evaluation that reflects clinical reality.
+- **RL for foundation models:** exploring how reinforcement learning can expand model capabilities beyond “alignment,” toward broader and more reliable solution spaces.
 
 **I’m actively looking to collaborate** with researchers working on medical AI, multimodal learning, or RL for foundation models.  
-You can find my CV [here](/assets/CV-Jirui_Dai.pdf). CV information before 01/15/2026.
+You can find my CV [here](/assets/CV-Jirui_Dai.pdf) (updated through **01/15/2026**).
 
 ## Research Taste
 I’ve become more optimistic about the possibility of **AGI** as I learn more about modern AI systems — and at the same time, more cautious about the **hype cycles** around them. Progress is real, but the trajectory is hard to forecast, and many “confident narratives” dissolve under stress testing.
