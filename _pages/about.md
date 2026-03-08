@@ -17,7 +17,7 @@ I am **Jirui Dai (戴纪瑞)**, a Master’s student in [Computer Science at Joh
 
 I am currently working across multiple research groups:
 
-- **Assistant Researcher** (monthly stipend) in the [Cao Peng Group](https://yxy.njucm.edu.cn/2022/1026/c5740a108197/page.htm) at Nanjing University of Chinese Medicine, advised by Postdoctoral Researcher **Zhi Liu**, with collaborative research involving multiple medical institutions (including Peking Union Medical College Hospital, Dongfang Hospital of Beijing University of Chinese Medicine, and Gulou Hospital of Traditional Chinese Medicine of Beijing et al).
+- Assistant Researcher (monthly stipend) in the [Cao Peng Group](https://yxy.njucm.edu.cn/2022/1026/c5740a108197/page.htm) at Nanjing University of Chinese Medicine, advised by Postdoctoral Researcher **Zhi Liu**, with collaborative research involving multiple medical institutions (including Peking Union Medical College Hospital, Dongfang Hospital of Beijing University of Chinese Medicine, and Gulou Hospital of Traditional Chinese Medicine of Beijing et al).
 
 - Advised by Prof. **[Mark Dredze](https://www.cs.jhu.edu/~mdredze/)**, collaborating with Ph.D. student **[Heyuan Huang](https://heyuanhuang.com/)**.
 
