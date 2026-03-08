@@ -15,7 +15,11 @@ redirect_from:
 
 I am **Jirui Dai (戴纪瑞)**, a Master’s student in [Computer Science at Johns Hopkins University](https://www.cs.jhu.edu/).
 
-Currently, I work as an **Assistant Researcher** (monthly stipend) in the [Cao Peng Group](https://yxy.njucm.edu.cn/2022/1026/c5740a108197/page.htm) at Nanjing University of Chinese Medicine, advised by Postdoctoral Researcher **Zhi Liu**. I am also involved in collaborative research with multiple medical institutions (including Peking Union Medical College Hospital, Dongfang Hospital of Beijing University of Chinese Medicine, and Gulou Hospital of Traditional Chinese Medicine of Beijing et al).
+I am currently working across multiple research groups:
+
+- **Assistant Researcher** (monthly stipend) in the [Cao Peng Group](https://yxy.njucm.edu.cn/2022/1026/c5740a108197/page.htm) at Nanjing University of Chinese Medicine, advised by Postdoctoral Researcher **Zhi Liu**, with collaborative research involving multiple medical institutions (including Peking Union Medical College Hospital, Dongfang Hospital of Beijing University of Chinese Medicine, and Gulou Hospital of Traditional Chinese Medicine of Beijing et al).
+
+- Advised by Prof. **[Mark Dredze](https://www.cs.jhu.edu/~mdredze/)**, collaborating with Ph.D. student **[Heyuan Huang](https://heyuanhuang.com/)**.
 
 My interests sit at the intersection of **Medical AI** and **Reinforcement Learning**, with a focus on building **clinically grounded** and **capability-expanding** AI systems.
 
@@ -26,12 +30,10 @@ My interests sit at the intersection of **Medical AI** and **Reinforcement Learn
 You can find my CV [here](/assets/CV-Jirui_Dai.pdf) (updated through **01/15/2026**).
 
 ## Research Taste
-I’ve become more optimistic about the possibility of **AGI** as I learn more about modern AI systems — and at the same time, more cautious about the **hype cycles** around them. Progress is real, but the trajectory is hard to forecast, and many “confident narratives” dissolve under stress testing.
+I am cautiously optimistic about **AGI**: progress is real, but confident narratives rarely survive stress testing.
 
-Where I feel the most grounded optimism is **healthcare**. Medicine suffers from structural scarcity: limited expert time, uneven access, and high cognitive load. Carefully designed medical AI can help scale expertise, improve triage and documentation, and make high-quality guidance more accessible — as long as we treat evaluation, safety, and distribution shift as first-class citizens.
+My strongest conviction lies in **healthcare AI**. Medicine faces structural scarcity — limited expert time, uneven access, high cognitive load — and carefully designed AI can help scale expertise and broaden access, provided we treat evaluation, safety, and distribution shift as first-class concerns.
 
-On the methods side, I have a persistent curiosity about **reinforcement learning**. RL is imperfect and sometimes unstable, but it captures something deeply human: in real life, better outcomes often require navigating a long chain of trade-offs, and the “reward” is rarely explicit. I suspect there exists a hidden structure of incentives that can guide foundation models toward a **wider subset of outputs** — richer strategies, more robust reasoning patterns, and more creative problem solving — instead of collapsing into a narrow, overly safe, overly similar response manifold.
-
-By participating in more projects and gaining a deeper understanding of AI in the future, I will continuously improve my research skills and judgment.
+On the methods side, I am drawn to **reinforcement learning**. RL captures something fundamental: real-world decisions involve long chains of trade-offs with implicit rewards. I believe there is latent structure in the incentive landscape that can steer foundation models toward a **wider output manifold** — richer strategies, more robust reasoning, and more creative problem-solving — rather than collapsing into narrow, overly safe modes.
 
 <div class="jr-spark">✦ ✦ ✦</div>
